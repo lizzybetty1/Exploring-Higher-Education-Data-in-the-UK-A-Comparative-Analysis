@@ -49,7 +49,10 @@ Here are the main visualizations included in the analysis:
   **Industrial Sector Comparison (Huddersfield vs Newcastle)**
 
  ![stacked-Bar-chart](https://github.com/lizzybetty1/Exploring-Higher-Education-Data-in-the-UK-A-Comparative-Analysis/blob/main/Dashboard%20image/IMG_0540.jpeg)
-11. **Line Graph**: Huddersfield Employment vs National Employment Trends
+ 
+  **Huddersfield Employment vs National Employment Trends**
+
+   ![stacked-chart](https://github.com/lizzybetty1/Exploring-Higher-Education-Data-in-the-UK-A-Comparative-Analysis/blob/main/Dashboard%20image/IMG_0541.jpeg)
 
 ## Key Insights
 
