@@ -30,8 +30,9 @@ Growth/Degrowth Equation: Growth/Degrowth (%) = (Present Year - Previous Year) /
 
 Here are the main visualizations included in the analysis:
 
-1. Trends of International Student Numbers (2019–2023)
-   (https://github.com/lizzybetty1/Exploring-Higher-Education-Data-in-the-UK-A-Comparative-Analysis/blob/main/Dashboard%20image/IMG_0536.jpeg)
+**Trends of International Student Numbers (2019–2023)**
+   
+   ![line-graph](https://github.com/lizzybetty1/Exploring-Higher-Education-Data-in-the-UK-A-Comparative-Analysis/blob/main/Dashboard%20image/IMG_0536.jpeg)
 3. **Bar Chart**: Tuition Contributions by Student Demographics (2019–2023)
 4. **Bar Chart**: Graduate Employment Trends in Huddersfield (2017–2021)
 5. **Line Graph**: Student Enrolment - Huddersfield vs Newcastle (2019–2023)
