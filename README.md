@@ -42,9 +42,12 @@ Here are the main visualizations included in the analysis:
 
    ![Bar-chart](https://github.com/lizzybetty1/Exploring-Higher-Education-Data-in-the-UK-A-Comparative-Analysis/blob/main/Dashboard%20image/IMG_0538.jpeg)
    
-6. **Line Graph**: Student Enrolment - Huddersfield vs Newcastle (2019–2023)
-7. **Stacked Bar Chart**: Industrial Sector Comparison (Huddersfield vs Newcastle)
-8. **Line Graph**: Huddersfield Employment vs National Employment Trends
+   **Student Enrolment - Huddersfield vs Newcastle (2019–2023)**
+
+     ![line-chart](https://github.com/lizzybetty1/Exploring-Higher-Education-Data-in-the-UK-A-Comparative-Analysis/blob/main/Dashboard%20image/IMG_0539.jpeg)
+     
+9. **Stacked Bar Chart**: Industrial Sector Comparison (Huddersfield vs Newcastle)
+10. **Line Graph**: Huddersfield Employment vs National Employment Trends
 
 ## Key Insights
 
